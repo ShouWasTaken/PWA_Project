@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#9013fe",
+    "background_color" : "#9013fe",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/PWA_Project/",
+    "name" : "Przewodnik po Hawajach",
+    "short_name" : "HawaiiGuide",
+    "description" : "AdvancedInternetTechnology",
+    "icons" : [
+        {
+            "src" : "./img/icon.png",
+            "sized" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+    }
