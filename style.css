@@ -1,11 +1,9 @@
-/* Resetowanie domyślnych styli */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Stylowanie nagłówka */
   header {
     background-color: #f2f2f2;
     padding: 20px;
